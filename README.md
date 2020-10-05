@@ -2,13 +2,14 @@
 Portfolio for previous data analytics projects : Machine Learning, Forecasting future opportunity, Clustering, Text mining, Rist/Impact analysis
 
 ## 1. Forecasting business opportunity by Topic Modeling with web-crawled patent data (Patent_Analysis_Topic_Modeling_Forecasting.pdf)
-### - Objective of project : Develope prototype of forecasting program..
+### - Objective of project : 
 #### * To forecast future emerging business topics within specific industry
 #### * Via designing, developing & implementation of algorithm, analysis framework and process
 ### - Methodology
 #### * Data acquisition by web-crawling (BeautifulSoup)
 #### * Text analysis (RAKE, TF-IDF) & Clustering by Topic Modeling (LDA)
 #### * Network (NetworkX) & Citation analysis to develop evaluation principle
+#### (Python Script is available from the slide)
 
 ## 2. Web-user's behavior analysis & BI Dashboard developing (PLOTTU_Project_Summary.pdf)
 #### * Dataset : User's Google Chrome search history file
