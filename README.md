@@ -1,7 +1,7 @@
 # Portfolio_Data-Analytic-Projects
 Portfolio for previous data analytics projects : Machine Learning, Forecasting future opportunity, Clustering, Text mining, Rist/Impact analysis
 
-## 1. Forecasting business opportunity by Topic Modeling with web-crawled patent data (Patent_Analysis_Topic_Modeling_Forecasting.pdf)
+<span style="color:blue"> ## 1. Forecasting business opportunity by Topic Modeling with web-crawled patent data (Patent_Analysis_Topic_Modeling_Forecasting.pdf) </span>
 ### - Objective of project : Develope prototype of forecasting program..
 #### * To forecast future emerging business topics within specific industry
 #### * Via designing, developing & implementation of algorithm, analysis framework and process
@@ -18,7 +18,7 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 ## 3. Time Series Analysis with ARIMA Modeling
 ### - Project Overview :
 #### * Foresting electricity consumption with time series data (Dataset : US Energy Information Administration(EIA))
-#### * Methodology : forecasting model building by ARIMA Model (Python script is available from Jupytor Notebook)
+#### * Methodology : forecasting model building by ARIMA Model (Python script is available from Jupyter Notebook(ARIMA.ipynb))
 
 ## 4. Emerging Research Forecasting
 ### - Project Overview :
