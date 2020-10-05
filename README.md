@@ -30,4 +30,8 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Customer's shopping trend analysis with POC transaction data from one of German DIY company 
 #### * Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
 
+## 6. Fault Prediction Model Building for Factory Automation
+### - Data set : UCI Secom Dataset
+### - Methodology : Data Processing(Imputation, Transformation, Feature selection, Balancing), Forecasting Model building (Regression, SVM, Random Forest, Naïve Bayse etc.)
+
 
