@@ -33,5 +33,6 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 ## 6. Fault Prediction Model Building for Factory Automation
 #### - Dataset : UCI Secom Dataset
 #### - Methodology : Data Processing(Imputation, Transformation, Feature selection, Balancing), Forecasting Model building (Regression, SVM, Random Forest, Naïve Bayse etc.)
+#### (R sciprt is avaiable from "R_Script_Fault_Prediction.R")
 
 
