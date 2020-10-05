@@ -15,4 +15,16 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Trend analysis for web-user's search pattern by Text mining (NLP)
 #### * Visualization & BI Dashboarding (Tableau)
 
+## 3. Time Series Analysis with ARIMA Modeling
+### - Project Overview :
+#### * Foresting electricity consumption with time series data (Dataset : US Energy Information Administration(EIA))
+#### * Methodology : forecasting model building by ARIMA Model
+
+## 4. 
+
+## 5. Shopping Trend Analysis
+### - Project Overview :
+#### * Customer's shopping trend analysis with POC transaction data from one of German DIY company 
+#### * Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
+
 
