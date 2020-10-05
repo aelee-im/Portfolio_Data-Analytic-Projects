@@ -11,7 +11,7 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Network (NetworkX) & Citation analysis to develop evaluation principle
 
 ## 2. Web-user's behavior analysis & BI Dashboard developing (PLOTTU_Project_Summary.pdf)
-#### * Dataset : User's Google search history file
+#### * Dataset : User's Google Chrome search history file
 #### * Methodology : Trend analysis for web-user's search pattern by Text mining (NLP), Visualization & BI Dashboarding (Tableau)
 
 ## 3. Time Series Analysis with ARIMA Modeling
