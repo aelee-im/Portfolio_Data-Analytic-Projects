@@ -23,12 +23,12 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 
 ## 4. Emerging Research Forecasting
 #### * Forecasting emerging research area by IP data(Research Paper, Patent etc.) and their bibliometrics
-#### * !! Note that R Script & project output of this project is confidential. (Not for opening for public, Sorry!) 
+#### * !! Note that R Script & project output of this project is confidential. (Not for opening to public, Sorry!) 
 
 ## 5. Shopping Trend Analysis
 #### - Dataset : POC transaction data from one of German DIY company 
 #### - Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
-#### !! Note that R script and source data is confidential. (Not for opening for public, Sorry!)
+#### !! Note that R script and source data is confidential. (Not for opening to public, Sorry!)
 
 ## 6. Fault Prediction Model Building for Factory Automation
 #### - Dataset : UCI Secom Dataset
