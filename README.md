@@ -18,9 +18,12 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 ## 3. Time Series Analysis with ARIMA Modeling
 ### - Project Overview :
 #### * Foresting electricity consumption with time series data (Dataset : US Energy Information Administration(EIA))
-#### * Methodology : forecasting model building by ARIMA Model
+#### * Methodology : forecasting model building by ARIMA Model (Python script is available from Jupytor Notebook)
 
-## 4. 
+## 4. Emerging Research Forecasting
+### - Project Overview :
+#### * Forecasting emerging research area by IP data(Research Paper, Patent etc.) and their bibliometrics
+#### * R Script & project output of this project is confidential. (Not for opening for public) 
 
 ## 5. Shopping Trend Analysis
 ### - Project Overview :
