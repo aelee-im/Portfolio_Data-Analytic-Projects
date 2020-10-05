@@ -13,6 +13,7 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 ## 2. Web-user's behavior analysis & BI Dashboard developing (PLOTTU_Project_Summary.pdf)
 #### * Dataset : User's Google Chrome search history file
 #### * Methodology : Trend analysis for web-user's search pattern by Text mining (NLP), Visualization & BI Dashboarding (Tableau)
+#### (Python script is available from "2_Web_user_behavor_analysis_key_phrases_extraction.py")
 
 ## 3. Time Series Analysis with ARIMA Modeling
 #### * Foresting electricity consumption with time series data
@@ -26,6 +27,7 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 ## 5. Shopping Trend Analysis
 #### - Dataset : POC transaction data from one of German DIY company 
 #### - Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
+#### !! Note that R script and source data is confidential. (Not for opening for public, Sorry!)
 
 ## 6. Fault Prediction Model Building for Factory Automation
 #### - Dataset : UCI Secom Dataset
