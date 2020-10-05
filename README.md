@@ -1,7 +1,7 @@
 # Portfolio_Data-Analytic-Projects
 Portfolio for previous data analytics projects : Machine Learning, Forecasting future opportunity, Clustering, Text mining, Rist/Impact analysis
 
-## <span style="color:blue"> 1. Forecasting business opportunity by Topic Modeling with web-crawled patent data (Patent_Analysis_Topic_Modeling_Forecasting.pdf) </span>
+## 1. Forecasting business opportunity by Topic Modeling with web-crawled patent data (Patent_Analysis_Topic_Modeling_Forecasting.pdf)
 ### - Objective of project : Develope prototype of forecasting program..
 #### * To forecast future emerging business topics within specific industry
 #### * Via designing, developing & implementation of algorithm, analysis framework and process
@@ -23,7 +23,7 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 ## 4. Emerging Research Forecasting
 ### - Project Overview :
 #### * Forecasting emerging research area by IP data(Research Paper, Patent etc.) and their bibliometrics
-#### * R Script & project output of this project is confidential. (Not for opening for public) 
+#### * !! Note that R Script & project output of this project is confidential. (Not for opening for public, Sorry!) 
 
 ## 5. Shopping Trend Analysis
 ### - Project Overview :
