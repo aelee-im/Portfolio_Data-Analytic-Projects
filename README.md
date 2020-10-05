@@ -11,27 +11,24 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Network (NetworkX) & Citation analysis to develop evaluation principle
 
 ## 2. Web-user's behavior analysis & BI Dashboard developing (PLOTTU_Project_Summary.pdf)
-### - Project overview: 
-#### * Trend analysis for web-user's search pattern by Text mining (NLP)
-#### * Visualization & BI Dashboarding (Tableau)
+#### * Dataset : User's Google search history file
+#### * Methodology : Trend analysis for web-user's search pattern by Text mining (NLP), Visualization & BI Dashboarding (Tableau)
 
 ## 3. Time Series Analysis with ARIMA Modeling
-### - Project Overview :
-#### * Foresting electricity consumption with time series data (Dataset : US Energy Information Administration (EIA))
+#### * Foresting electricity consumption with time series data
+#### * Dataset : US Energy Information Administration (EIA)
 #### * Methodology : forecasting model building by ARIMA Model (Python script is available from Jupyter Notebook (ARIMA.ipynb))
 
 ## 4. Emerging Research Forecasting
-### - Project Overview :
 #### * Forecasting emerging research area by IP data(Research Paper, Patent etc.) and their bibliometrics
 #### * !! Note that R Script & project output of this project is confidential. (Not for opening for public, Sorry!) 
 
 ## 5. Shopping Trend Analysis
-### - Project Overview :
-#### * Customer's shopping trend analysis with POC transaction data from one of German DIY company 
-#### * Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
+#### - Dataset : POC transaction data from one of German DIY company 
+#### - Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
 
 ## 6. Fault Prediction Model Building for Factory Automation
-### - Data set : UCI Secom Dataset
-### - Methodology : Data Processing(Imputation, Transformation, Feature selection, Balancing), Forecasting Model building (Regression, SVM, Random Forest, Naïve Bayse etc.)
+#### - Dataset : UCI Secom Dataset
+#### - Methodology : Data Processing(Imputation, Transformation, Feature selection, Balancing), Forecasting Model building (Regression, SVM, Random Forest, Naïve Bayse etc.)
 
 
