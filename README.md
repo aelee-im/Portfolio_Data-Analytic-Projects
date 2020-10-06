@@ -53,5 +53,7 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 
 ## 7. Development of deep learning model for Image recognition and segmentation
 #### - Built up deep Learning (MR-CNN) model to create real-time detector for recognizing target object via MR-CNN with tensorflow and keras
+#### * Dataset - Image files gathered from web
+#### * Methodology - Deep learning model building via MR-CNN, Tensorflow, Keras
 
-
+<img width="1329" alt="image_7" src="https://user-images.githubusercontent.com/72280119/95202819-1fa76700-07e2-11eb-9bf0-697e0b90b0e5.png">
