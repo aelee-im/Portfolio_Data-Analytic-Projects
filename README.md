@@ -38,6 +38,8 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### - Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
 #### !! Note that R script and source data is confidential. (Not for opening to public, Sorry!)
 
+<img width="1390" alt="image_4" src="https://user-images.githubusercontent.com/72280119/95199774-a86fd400-07dd-11eb-8196-08450d26b20f.png">
+
 ## 6. Fault Prediction Model Building for Factory Automation
 #### - Dataset : UCI Secom Dataset
 #### - Methodology : Data Processing(Imputation, Transformation, Feature selection, Balancing), Forecasting Model building (Regression, SVM, Random Forest, Naïve Bayse etc.)
