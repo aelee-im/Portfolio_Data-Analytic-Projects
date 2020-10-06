@@ -50,3 +50,8 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### (R sciprt is avaiable from "R_Script_Fault_Prediction.R")
 
 <img width="863" alt="image_6" src="https://user-images.githubusercontent.com/72280119/95201365-20d79480-07e0-11eb-948b-773e6afaa55d.png">
+
+## 7. Development of deep learning model for Image recognition and segmentation
+#### - Built up deep Learning (MR-CNN) model to create real-time detector for recognizing target object via MR-CNN with tensorflow and keras
+
+
