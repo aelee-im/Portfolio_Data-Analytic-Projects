@@ -49,4 +49,4 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### - Methodology : Data Processing(Imputation, Transformation, Feature selection, Balancing), Forecasting Model building (Regression, SVM, Random Forest, Naïve Bayse etc.)
 #### (R sciprt is avaiable from "R_Script_Fault_Prediction.R")
 
-
+<img width="863" alt="image_6" src="https://user-images.githubusercontent.com/72280119/95201365-20d79480-07e0-11eb-948b-773e6afaa55d.png">
