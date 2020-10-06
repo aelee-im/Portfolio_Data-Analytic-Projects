@@ -29,6 +29,8 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Forecasting emerging research area by IP data(Research Paper, Patent etc.) and their bibliometrics
 #### * !! Note that R Script & project output of this project is confidential. (Not for opening to public, Sorry!) 
 
+<img width="1293" alt="image_3" src="https://user-images.githubusercontent.com/72280119/95199516-38f9e480-07dd-11eb-8292-f67422714b42.png">
+
 <img width="1300" alt="image_2" src="https://user-images.githubusercontent.com/72280119/95199330-f7693980-07dc-11eb-925b-a79baa97d10a.png">
 
 ## 5. Shopping Trend Analysis
