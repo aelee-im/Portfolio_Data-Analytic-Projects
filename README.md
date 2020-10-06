@@ -25,6 +25,8 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Dataset : US Energy Information Administration (EIA)
 #### * Methodology : forecasting model building by ARIMA Model 
 #### (Python script is available from Jupyter Notebook (ARIMA.ipynb))
+#### <Initial problem defining>
+<img width="1248" alt="image_5" src="https://user-images.githubusercontent.com/72280119/95200084-16b49680-07de-11eb-8e76-e42f5d7afc3f.png">
 
 
 ## 4. Emerging Research Forecasting
