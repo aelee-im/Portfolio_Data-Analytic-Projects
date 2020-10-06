@@ -29,6 +29,8 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Forecasting emerging research area by IP data(Research Paper, Patent etc.) and their bibliometrics
 #### * !! Note that R Script & project output of this project is confidential. (Not for opening to public, Sorry!) 
 
+<img width="1300" alt="image_2" src="https://user-images.githubusercontent.com/72280119/95199330-f7693980-07dc-11eb-925b-a79baa97d10a.png">
+
 ## 5. Shopping Trend Analysis
 #### - Dataset : POC transaction data from one of German DIY company 
 #### - Methodology : Trend landscaping, Clustering, Loyalty/Membership analysis, A Priori analysis
