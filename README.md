@@ -11,6 +11,9 @@ Portfolio for previous data analytics projects : Machine Learning, Forecasting f
 #### * Network (NetworkX) & Citation analysis to develop evaluation principle
 #### (Python Script is available from the slide)
 
+<img width="1321" alt="image_1" src="https://user-images.githubusercontent.com/72280119/95199215-c7219b00-07dc-11eb-8c8c-2db5846a2c64.png">
+
+
 ## 2. Web-user's behavior analysis & BI Dashboard developing (PLOTTU_Project_Summary.pdf)
 #### * Dataset : User's Google Chrome search history file
 #### * Methodology : Trend analysis for web-user's search pattern by Text mining (NLP), Visualization & BI Dashboarding (Tableau)
